@@ -9,7 +9,7 @@
 <!-- default file list end -->
 # How to pass complex objects to a callback Action as callback arguments
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3338)**
+**[[Run Online]](https://codecentral.devexpress.com/e3338/)**
 <!-- run online end -->
 
 
