@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Collections;
 using System.IO;
-using DevExpress.Web.ASPxClasses.Internal;
+using DevExpress.Web.Internal;
 using DevExpress.Razor.Models;
 using System.Web.Script.Serialization;
 
