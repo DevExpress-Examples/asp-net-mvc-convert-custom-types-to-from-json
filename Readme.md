@@ -24,7 +24,7 @@ function GetSerializationData() {
 }
 ```
 
-The `JavaScriptSerializer.Deserialize` method parse the JSON string in a Controller's Action.
+The `JavaScriptSerializer.Deserialize` method parses the JSON string in a Controller's Action.
 
 ```csharp
 MyData GetSerializationObject() {
