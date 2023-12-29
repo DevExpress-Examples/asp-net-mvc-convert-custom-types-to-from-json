@@ -5,9 +5,6 @@
 <!-- default badges end -->
 
 # ASP.NET MVC - How to pass complex objects to a callback Action as callback arguments
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128552755/)**
-<!-- run online end -->
 
 This example demonstrates how to convert custom types to a JSON string on the client and parse this string on the server. 
 
