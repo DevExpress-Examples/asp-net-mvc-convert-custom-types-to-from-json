@@ -49,7 +49,7 @@ In this example, if it is not possible to deserialize user input, an exception i
 * [EditorsPartial.cshtml](./CS/DevExpress.Razor/Views/Home/EditorsPartial.cshtml)
 * [Index.cshtml](./CS/DevExpress.Razor/Views/Home/Index.cshtml)
 <!-- feedback -->
-## Does This Example Address Your Development Requirements/Objectives?
+## Does this example address your development requirements/objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-convert-custom-types-to-from-json&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-convert-custom-types-to-from-json&~~~was_helpful=no)
 
